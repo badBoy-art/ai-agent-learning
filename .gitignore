@@ -1,0 +1,29 @@
+# Python virtual environment (pip3 environment)
+myenv/
+venv/
+.venv/
+env/
+_env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE - IntelliJ / PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# JSON data files (generated data)
+*.json
+
+# Environment variables
+.env
+.env.local
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
